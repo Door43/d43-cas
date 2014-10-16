@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cas:home|Door43 (cas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cas|d43-cas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cas/archive/master.zip|d43-cas.zip]]
+
+**Recent Changes**
+{{changes>ns = cas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cas|Ethnologue data]]
+
